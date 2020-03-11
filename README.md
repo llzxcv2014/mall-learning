@@ -118,10 +118,13 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [使用Jenkins一键打包部署SpringBoot应用，就是这么6！](https://juejin.im/post/5df780d3e51d4557ff140b30)
 - [使用Jenkins一键打包部署前端应用，就是这么6！](https://juejin.im/post/5e0360e951882512400ae872)
 - [Github标星19K+Star，10分钟自建对象存储服务！](https://juejin.im/post/5e09f8fbe51d4575a46f05e5)
+- [MySql主从复制，从原理到实践！](https://juejin.im/post/5e1daba46fb9a02fb75d5e92)
+- [你还在代码里做读写分离么，试试这个中间件吧！](https://juejin.im/post/5e22b37ee51d454d523be24d)
+- [推荐一个项目管理工具，落地基于Scrum的敏捷开发！](https://juejin.im/post/5e4200885188254944669a79)
 
 
 ## 公众号
 
-mall项目全套学习教程连载中，**关注公众号**第一时间获取。
+mall项目全套学习教程连载中，关注公众号「**macrozheng**」第一时间获取。
 
 ![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
